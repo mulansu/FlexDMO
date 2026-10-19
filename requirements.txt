@@ -1,7 +1,7 @@
 # Python 3.12+; keep the numerical and plotting stack compatible.
 matplotlib==3.11.2
 -r flexdmo_app/requirements.txt
-numpy==2.5.3
+numpy==2.5.4
 Pillow==12.3.0
 pandas
 scipy
