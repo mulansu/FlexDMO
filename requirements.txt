@@ -2,7 +2,7 @@
 matplotlib==3.11.2
 -r flexdmo_app/requirements.txt
 numpy==2.5.3
-Pillow==12.3.0
+Pillow==13.0.0
 pandas
 scipy
 openpyxl
